@@ -1,0 +1,26 @@
+`![Preview do Currículo](./curriculo-imagem.png)`
+
+# 📄 Currículo Online - Rodolfo Felis
+
+Este repositório contém o código-fonte do meu currículo web, desenvolvido para apresentar minha trajetória profissional, competências técnicas e projetos de forma interativa e responsiva.
+
+🚀 **Visualize o currículo aqui:** [https://rodolfocfelis.github.io/meu-curriculo/](https://rodolfocfelis.github.io/meu-curriculo/)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Para a construção desta página, foquei em uma estrutura semântica e estilização moderna:
+
+* **HTML5:** Estruturação de conteúdo.
+* **CSS3:** Layout (Flexbox/Grid) e estilização personalizada.
+* **GitHub Pages:** Hospedagem e deploy automatizado.
+
+## 👤 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco no ecossistema **Java e Node.js**. Com mais de 10 anos de experiência em liderança operacional, busco transicionar para a engenharia de software aplicando visão sistêmica e metodologias ágeis.
+
+### Tech Stack Principal:
+- **Linguagens:** Java, JavaScript, Python, C++
+- **Backend & DB:** Node.js, PostgreSQL, APIs REST
+- **Cloud & DevOps:** Azure, Git/GitHub, Scrum
