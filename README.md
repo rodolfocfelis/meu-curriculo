@@ -1,12 +1,10 @@
-o Rodolfo Felis - Desenvolvedor Full Stack
-
-<p><img src="./curriculo-imagem.png"><\p>
+![Preview do Currículo](./curriculo-imagem.png)
 
 # 📄 Currículo Online - Rodolfo Felis
 
 Este repositório contém o código-fonte do meu currículo web, desenvolvido para apresentar minha trajetória profissional, competências técnicas e projetos de forma interativa e responsiva.
 
-🚀 **Visualize o currículo aqui:** .[VISUALIZAR] (https://rodolfocfelis.github.io/meu-curriculo/)
+🚀 **Visualize o currículo aqui:** [VISUALIZAR](https://rodolfocfelis.github.io/meu-curriculo/)
 
 ---
 
