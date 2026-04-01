@@ -1,5 +1,3 @@
-![Preview do Currículo](./curriculo-imagem.png)
-
 # 📄 Currículo Online - Rodolfo Felis
 
 Este repositório contém o código-fonte do meu currículo web, desenvolvido para apresentar minha trajetória profissional, competências técnicas e projetos de forma interativa e responsiva.
@@ -18,7 +16,11 @@ Para a construção desta página, foquei em uma estrutura semântica e estiliza
 
 ## 👤 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco no ecossistema **Java e Node.js**. Com mais de 10 anos de experiência em liderança operacional, busco transicionar para a engenharia de software aplicando visão sistêmica e metodologias ágeis.
+Desenvolvedor Fullstack apaixonado por resolver problemas complexos através de código, utilizando Java, Node.js e React.
+
+Unindo minha formação em Análise e Desenvolvimento de Sistemas a uma bagagem corporativa prévia em gestão, trago para a tecnologia uma forte capacidade de entender requisitos de negócios e transformá-los em software eficiente. 
+
+Tenho experiência no desenvolvimento de ponta a ponta: desde a criação de back-ends robustos e microsserviços, até interfaces responsivas, rotinas de deploy (Docker/Render) e testes (JUnit/Cypress).
 
 ### Tech Stack Principal:
 - **Linguagens:** Java, JavaScript, Python, C++
